@@ -1,0 +1,14 @@
+{
+    "name": "yibanjiayi/it666",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "guan",
+            "email": "guan@it666.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
